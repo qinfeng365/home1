@@ -15,6 +15,6 @@ app.mount("#app");
 // PWA
 navigator.serviceWorker.addEventListener("controllerchange", () => {
   // 弹出更新提醒
-  console.log("站点已更新，刷新后生效");
-  ElMessage("站点已更新，刷新后生效");
+  console.log("站长已经更新站点啦，刷新看看我的新样子吧~");
+  ElMessage("站长已经更新站点啦，刷新看看我的新样子吧~");
 });
