@@ -62,8 +62,8 @@ const getHitokotoData = () => {
 
 // 更新一言数据
 const updateHitokoto = () => {
-  hitokotoData.text = "新的一言正在赶来的路上";
-  hitokotoData.from = "来源加载中";
+  hitokotoData.text = "新的一言有点害羞，等一下吧~";
+  hitokotoData.from = "呼呼呼~~~";
   // 防抖
   debounce(() => {
     getHitokotoData();
