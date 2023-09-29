@@ -4,6 +4,11 @@
     "name": "博客",
     "link": "https://qingfengnb.cn/"
   },
+{
+    "icon": "icon-gushi",
+    "name": "我的她",
+    "link": "https://love.qingfengnb.cn/"
+  },
   {
     "icon": "LaptopCode",
     "name": "站点监测",
