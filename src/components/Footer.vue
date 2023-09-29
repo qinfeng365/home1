@@ -12,7 +12,7 @@
           <a :href="SiteUrl">{{ SiteAnthor }}</a>
         </span>
         <!-- 站点备案 -->
-        <a v-if="siteIcp" href="https://beian.miit.gov.cn" target="_blank">
+        <a  target="_blank">
           &amp;
           {{ siteIcp }}
         </a>
