@@ -5,7 +5,7 @@
     "link": "https://qingfengnb.cn/"
   },
 {
-    "icon": "icon-gushi",
+    <font-awesome-icon :icon="['fad', 'heart']" />,
     "name": "我的她",
     "link": "https://love.qingfengnb.cn/"
   },
