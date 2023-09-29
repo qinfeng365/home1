@@ -5,7 +5,7 @@
     "link": "https://qingfengnb.cn/"
   },
 {
-    <font-awesome-icon :icon="['fad', 'heart']" />,
+    <i class="fad fa-heart"></i>,
     "name": "我的她",
     "link": "https://love.qingfengnb.cn/"
   },
