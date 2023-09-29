@@ -51,7 +51,7 @@ const getHitokotoData = () => {
     })
     .catch(() => {
       ElMessage({
-        message: "一言获取失败",
+        message: "一言获取失败啦~可能出问题啦~已经在解决啦~",
         icon: h(Error, {
           theme: "filled",
           fill: "#efefef",
